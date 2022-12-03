@@ -1,9 +1,16 @@
 # Airline-management-system
 This flatform has some major features which are :
-1.Creating user/customer id
+
+
+
+1.Creating user/customer id.
+
 2. Booking ticket
+
 3. Payment 
+
 4.Cancellation of tickets
+
 5. Generating Ticket with details. 
 
 
