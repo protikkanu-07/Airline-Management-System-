@@ -23,7 +23,5 @@ Language: Java
 6. commons-logging-1.1.1
 ![image](https://user-images.githubusercontent.com/105934936/208487779-ad61ea40-7248-4927-b61a-8f18a72e3879.png)
 
-![image](https://user-images.githubusercontent.com/105934936/208487787-0b015180-963b-4fe6-ac79-707fec86bdc4.png)
 
-![image](https://user-images.githubusercontent.com/105934936/208487790-0535ad1f-c958-46da-9411-e1909b1482aa.png)
 
